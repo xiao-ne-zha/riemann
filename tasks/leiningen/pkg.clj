@@ -10,7 +10,8 @@
   (doto project
     (uberjar)
     (tar false)
-    (fatrpm6 false)
-    (fatrpm7 false)
-    (fatrpm8 false)
-    (fatdeb false)))
+    ;;(fatrpm6 false)
+    ;;(fatrpm7 false)
+    ;;(fatrpm8 false)
+    ;;(fatdeb false)
+    ))
